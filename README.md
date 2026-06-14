@@ -1,2 +1,74 @@
 # Retail_Sales_Performerce_Analysis
+Retail organizations generate large volumes of transactional data every day. The objective of this analysis was# Retail Sales Performance Analysis
+
+## Business Problem
+
 Retail organizations generate large volumes of transactional data every day. The objective of this analysis was to identify revenue drivers, high-performing product categories, regional sales patterns, and opportunities for business growth.
+
+## Objective
+
+To transform raw sales transactions into actionable business insights that support strategic decision-making.
+
+## Analytical Approach
+
+### Data Validation
+
+* Reviewed transactional records
+* Investigated potential data quality issues
+* Verified business metrics
+
+### SQL Analysis
+
+Performed exploratory and business-focused analysis including:
+
+* Regional sales performance
+* Category-level revenue analysis
+* Monthly sales trends
+* Product performance analysis
+* Profitability investigation
+
+### Power BI Reporting
+
+Developed an interactive analytical report to visualize:
+
+* Sales by Region
+* Sales by Category
+* Monthly Sales Trends
+* Top Performing Sub-Categories
+
+## Key Findings
+
+### Regional Performance
+
+West region generated the highest revenue, indicating strong market demand and customer penetration.
+
+### Product Performance
+
+Technology emerged as the highest revenue-generating category.
+
+### Seasonal Trends
+
+Sales activity increased significantly during the final quarter, suggesting seasonal purchasing behavior.
+
+### Product Concentration
+
+A small number of products contributed disproportionately to overall sales performance.
+
+## Business Recommendations
+
+1. Increase inventory allocation for high-performing categories.
+2. Expand marketing efforts in high-performing regions.
+3. Prepare inventory and operational capacity for peak-demand periods.
+4. Investigate underperforming categories and regions for optimization opportunities.
+
+## Tools
+
+* SQL
+* Power BI
+* Data Analysis
+* Business Intelligence
+
+## Outcome
+
+This project demonstrates the end-to-end analytics workflow from data exploration and business analysis to executive reporting and actionable recommendations.
+
