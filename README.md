@@ -21,6 +21,10 @@ To transform raw sales transactions into actionable business insights that suppo
 
 Performed exploratory and business-focused analysis including:
 
+Sample Product Performence : Top Selling Products
+<img width="766" height="402" alt="SQL_Sales_Analysis_Screenshot" src="https://github.com/user-attachments/assets/7063b3ad-16c5-4ff5-b027-58836de8149b" />
+
+
 * Regional sales performance
 * Category-level revenue analysis
 * Monthly sales trends
@@ -30,6 +34,9 @@ Performed exploratory and business-focused analysis including:
 ### Power BI Reporting
 
 Developed an interactive analytical report to visualize:
+
+<img width="1286" height="713" alt="Sales_Analysis_Report_Screenshot" src="https://github.com/user-attachments/assets/5b357fae-1ea1-4b39-a8b1-14fba2dac460" />
+
 
 * Sales by Region
 * Sales by Category
